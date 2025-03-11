@@ -1,0 +1,20 @@
+{
+    "Characters": [
+        {
+            "name": "Spider-Man",
+            "img": "Spiderman.avif",
+            "text": "Hero"
+        },
+        {
+            "name": "Deadpool",
+            "img": "Deadpool.jpg",
+            "text": "Anti-Hero"
+        },
+        {
+            "name": "Venom",
+            "img": "Venom.webp",
+            "text": "Villian"
+        }
+        
+    ]
+}
